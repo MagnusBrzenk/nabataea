@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nabataea/static/css/main.451795de.chunk.css",
+    "main.js": "/nabataea/static/js/main.04276ffa.chunk.js",
+    "main.js.map": "/nabataea/static/js/main.04276ffa.chunk.js.map",
+    "runtime-main.js": "/nabataea/static/js/runtime-main.9f56a6a3.js",
+    "runtime-main.js.map": "/nabataea/static/js/runtime-main.9f56a6a3.js.map",
+    "static/js/2.3b35bfa4.chunk.js": "/nabataea/static/js/2.3b35bfa4.chunk.js",
+    "static/js/2.3b35bfa4.chunk.js.map": "/nabataea/static/js/2.3b35bfa4.chunk.js.map",
+    "index.html": "/nabataea/index.html",
+    "precache-manifest.e17ac504d7472407b39253190583f879.js": "/nabataea/precache-manifest.e17ac504d7472407b39253190583f879.js",
+    "service-worker.js": "/nabataea/service-worker.js",
+    "static/css/main.451795de.chunk.css.map": "/nabataea/static/css/main.451795de.chunk.css.map",
+    "static/js/2.3b35bfa4.chunk.js.LICENSE.txt": "/nabataea/static/js/2.3b35bfa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f56a6a3.js",
+    "static/js/2.3b35bfa4.chunk.js",
+    "static/css/main.451795de.chunk.css",
+    "static/js/main.04276ffa.chunk.js"
+  ]
+}
