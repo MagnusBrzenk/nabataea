@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nabataea/static/css/main.8281ec01.chunk.css",
-    "main.js": "/nabataea/static/js/main.6fec739f.chunk.js",
-    "main.js.map": "/nabataea/static/js/main.6fec739f.chunk.js.map",
+    "main.js": "/nabataea/static/js/main.aceb5346.chunk.js",
+    "main.js.map": "/nabataea/static/js/main.aceb5346.chunk.js.map",
     "runtime-main.js": "/nabataea/static/js/runtime-main.9f56a6a3.js",
     "runtime-main.js.map": "/nabataea/static/js/runtime-main.9f56a6a3.js.map",
     "static/js/2.587db720.chunk.js": "/nabataea/static/js/2.587db720.chunk.js",
     "static/js/2.587db720.chunk.js.map": "/nabataea/static/js/2.587db720.chunk.js.map",
     "index.html": "/nabataea/index.html",
-    "precache-manifest.9e7b10602dfddc1622d628bc7b102d41.js": "/nabataea/precache-manifest.9e7b10602dfddc1622d628bc7b102d41.js",
+    "precache-manifest.a0f08b408c77156aaf834abc7ded2068.js": "/nabataea/precache-manifest.a0f08b408c77156aaf834abc7ded2068.js",
     "service-worker.js": "/nabataea/service-worker.js",
     "static/css/main.8281ec01.chunk.css.map": "/nabataea/static/css/main.8281ec01.chunk.css.map",
     "static/js/2.587db720.chunk.js.LICENSE.txt": "/nabataea/static/js/2.587db720.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9f56a6a3.js",
     "static/js/2.587db720.chunk.js",
     "static/css/main.8281ec01.chunk.css",
-    "static/js/main.6fec739f.chunk.js"
+    "static/js/main.aceb5346.chunk.js"
   ]
 }
