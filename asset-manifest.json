@@ -5,20 +5,20 @@
     "main.js.map": "/nabataea/static/js/main.aceb5346.chunk.js.map",
     "runtime-main.js": "/nabataea/static/js/runtime-main.9f56a6a3.js",
     "runtime-main.js.map": "/nabataea/static/js/runtime-main.9f56a6a3.js.map",
-    "static/js/2.587db720.chunk.js": "/nabataea/static/js/2.587db720.chunk.js",
-    "static/js/2.587db720.chunk.js.map": "/nabataea/static/js/2.587db720.chunk.js.map",
+    "static/js/2.7e02bca7.chunk.js": "/nabataea/static/js/2.7e02bca7.chunk.js",
+    "static/js/2.7e02bca7.chunk.js.map": "/nabataea/static/js/2.7e02bca7.chunk.js.map",
     "index.html": "/nabataea/index.html",
-    "precache-manifest.a0f08b408c77156aaf834abc7ded2068.js": "/nabataea/precache-manifest.a0f08b408c77156aaf834abc7ded2068.js",
+    "precache-manifest.438188254d795986a547e981ca01391a.js": "/nabataea/precache-manifest.438188254d795986a547e981ca01391a.js",
     "service-worker.js": "/nabataea/service-worker.js",
     "static/css/main.8281ec01.chunk.css.map": "/nabataea/static/css/main.8281ec01.chunk.css.map",
-    "static/js/2.587db720.chunk.js.LICENSE.txt": "/nabataea/static/js/2.587db720.chunk.js.LICENSE.txt",
+    "static/js/2.7e02bca7.chunk.js.LICENSE.txt": "/nabataea/static/js/2.7e02bca7.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/nabataea/static/media/AlfredDrake.331e8942.ttf",
     "static/media/PSAUDI5.woff": "/nabataea/static/media/PSAUDI5.8d06109d.woff",
     "static/media/PSAUDI5.ttf": "/nabataea/static/media/PSAUDI5.e3cd6e02.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.9f56a6a3.js",
-    "static/js/2.587db720.chunk.js",
+    "static/js/2.7e02bca7.chunk.js",
     "static/css/main.8281ec01.chunk.css",
     "static/js/main.aceb5346.chunk.js"
   ]
